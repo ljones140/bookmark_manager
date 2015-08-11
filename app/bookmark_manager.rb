@@ -1,6 +1,6 @@
 require 'sinatra/base'
 # require '../data_mapper_setup'
-# require_relative './models/link.rb'
+# require_relative 'models/link.rb'
 
 class BookmarkManager < Sinatra::Base
 
